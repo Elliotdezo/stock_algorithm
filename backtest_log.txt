@@ -1,0 +1,1117 @@
+2025-03-23 19:06:48,169 | INFO | 
+📈 Running backtest for AAPL with $100000 starting capital.
+2025-03-23 19:06:48,322 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $27392.64 | Time Held: 155 days, 0:00:00
+2025-03-23 19:06:48,349 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-3364.28 | Time Held: 4 days, 0:00:00
+2025-03-23 19:06:48,353 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $4925.94 | Time Held: 116 days, 0:00:00
+2025-03-23 19:06:48,357 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-3598.35 | Time Held: 37 days, 0:00:00
+2025-03-23 19:06:48,362 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $1391.20 | Time Held: 97 days, 0:00:00
+2025-03-23 19:06:48,367 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $10026.72 | Time Held: 85 days, 0:00:00
+2025-03-23 19:06:48,371 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-6067.13 | Time Held: 28 days, 0:00:00
+2025-03-23 19:06:48,376 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $755.16 | Time Held: 61 days, 0:00:00
+2025-03-23 19:06:48,379 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-35.20 | Time Held: 5 days, 0:00:00
+2025-03-23 19:06:48,381 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-6386.16 | Time Held: 15 days, 0:00:00
+2025-03-23 19:06:48,387 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $9803.06 | Time Held: 193 days, 0:00:00
+2025-03-23 19:06:48,393 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $220.21 | Time Held: 64 days, 0:00:00
+2025-03-23 19:06:48,405 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $15739.32 | Time Held: 103 days, 0:00:00
+2025-03-23 19:06:48,408 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $2686.00 | Time Held: 78 days, 0:00:00
+2025-03-23 19:06:48,414 | INFO | 📊 Equity curve saved for AAPL
+2025-03-23 19:06:48,414 | INFO | 📈 AAPL | Sharpe: 0.88 | Max Drawdown: 13.82%
+2025-03-23 19:06:48,414 | INFO | ✅ AAPL | Final Portfolio Value: $155639.74 | Time: 0.74s
+2025-03-23 19:06:48,562 | INFO | 
+📈 Running backtest for MSFT with $100000 starting capital.
+2025-03-23 19:06:48,633 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $10319.28 | Time Held: 159 days, 0:00:00
+2025-03-23 19:06:48,637 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $1290.00 | Time Held: 57 days, 0:00:00
+2025-03-23 19:06:48,645 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $4551.68 | Time Held: 98 days, 0:00:00
+2025-03-23 19:06:48,650 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-760.50 | Time Held: 49 days, 0:00:00
+2025-03-23 19:06:48,662 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $7055.16 | Time Held: 108 days, 0:00:00
+2025-03-23 19:06:48,676 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-1854.73 | Time Held: 70 days, 0:00:00
+2025-03-23 19:06:48,690 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-4017.74 | Time Held: 23 days, 0:00:00
+2025-03-23 19:06:48,696 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $2168.32 | Time Held: 2 days, 0:00:00
+2025-03-23 19:06:48,701 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-6713.18 | Time Held: 45 days, 0:00:00
+2025-03-23 19:06:48,708 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-3702.37 | Time Held: 42 days, 0:00:00
+2025-03-23 19:06:48,717 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $11566.88 | Time Held: 188 days, 0:00:00
+2025-03-23 19:06:48,725 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $12000.60 | Time Held: 188 days, 0:00:00
+2025-03-23 19:06:48,728 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-2305.38 | Time Held: 68 days, 0:00:00
+2025-03-23 19:06:48,731 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-1117.20 | Time Held: 29 days, 0:00:00
+2025-03-23 19:06:48,740 | INFO | 📊 Equity curve saved for MSFT
+2025-03-23 19:06:48,741 | INFO | 📈 MSFT | Sharpe: 0.53 | Max Drawdown: 17.88%
+2025-03-23 19:06:48,742 | INFO | ✅ MSFT | Final Portfolio Value: $125242.20 | Time: 0.33s
+2025-03-23 19:06:48,864 | INFO | 
+📈 Running backtest for GOOGL with $100000 starting capital.
+2025-03-23 19:06:49,003 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $5322.24 | Time Held: 150 days, 0:00:00
+2025-03-23 19:06:49,009 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $6617.04 | Time Held: 76 days, 0:00:00
+2025-03-23 19:06:49,017 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $26596.36 | Time Held: 255 days, 0:00:00
+2025-03-23 19:06:49,022 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-881.36 | Time Held: 48 days, 0:00:00
+2025-03-23 19:06:49,024 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-3164.36 | Time Held: 2 days, 0:00:00
+2025-03-23 19:06:49,028 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-12427.59 | Time Held: 26 days, 0:00:00
+2025-03-23 19:06:49,032 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-467.04 | Time Held: 7 days, 0:00:00
+2025-03-23 19:06:49,034 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-5633.13 | Time Held: 43 days, 0:00:00
+2025-03-23 19:06:49,050 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-3623.04 | Time Held: 14 days, 0:00:00
+2025-03-23 19:06:49,061 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-6584.40 | Time Held: 34 days, 0:00:00
+2025-03-23 19:06:49,071 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $9365.44 | Time Held: 114 days, 0:00:00
+2025-03-23 19:06:49,077 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-1761.44 | Time Held: 93 days, 0:00:00
+2025-03-23 19:06:49,083 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $344.40 | Time Held: 95 days, 0:00:00
+2025-03-23 19:06:49,089 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $1320.42 | Time Held: 125 days, 0:00:00
+2025-03-23 19:06:49,097 | INFO | 📊 Equity curve saved for GOOGL
+2025-03-23 19:06:49,098 | INFO | 📈 GOOGL | Sharpe: 0.46 | Max Drawdown: 26.77%
+2025-03-23 19:06:49,098 | INFO | ✅ GOOGL | Final Portfolio Value: $124629.17 | Time: 0.36s
+2025-03-23 19:10:44,511 | INFO | 
+📈 Running portfolio backtest with $100000 starting capital.
+2025-03-23 19:10:44,745 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-1378.54 | Time Held: 150 days, 0:00:00
+2025-03-23 19:10:44,772 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-10318.90 | Time Held: 159 days, 0:00:00
+2025-03-23 19:10:44,773 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-14239.80 | Time Held: 155 days, 0:00:00
+2025-03-23 19:10:44,776 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $1714.19 | Time Held: 4 days, 0:00:00
+2025-03-23 19:10:44,780 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-1474.39 | Time Held: 57 days, 0:00:00
+2025-03-23 19:10:44,782 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-2074.63 | Time Held: 76 days, 0:00:00
+2025-03-23 19:10:44,786 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-1833.39 | Time Held: 116 days, 0:00:00
+2025-03-23 19:10:44,790 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-3450.03 | Time Held: 98 days, 0:00:00
+2025-03-23 19:10:44,795 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $1415.78 | Time Held: 37 days, 0:00:00
+2025-03-23 19:10:44,796 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $663.61 | Time Held: 49 days, 0:00:00
+2025-03-23 19:10:44,804 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-559.03 | Time Held: 97 days, 0:00:00
+2025-03-23 19:10:44,805 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-6036.81 | Time Held: 108 days, 0:00:00
+2025-03-23 19:10:44,806 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-14975.94 | Time Held: 255 days, 0:00:00
+2025-03-23 19:10:44,810 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $488.59 | Time Held: 48 days, 0:00:00
+2025-03-23 19:10:44,812 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $2315.68 | Time Held: 70 days, 0:00:00
+2025-03-23 19:10:44,813 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $1324.07 | Time Held: 2 days, 0:00:00
+2025-03-23 19:10:44,815 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-2969.29 | Time Held: 85 days, 0:00:00
+2025-03-23 19:10:44,820 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $13998.73 | Time Held: 26 days, 0:00:00
+2025-03-23 19:10:44,822 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $2506.41 | Time Held: 23 days, 0:00:00
+2025-03-23 19:10:44,824 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $1724.24 | Time Held: 28 days, 0:00:00
+2025-03-23 19:10:44,828 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-590.64 | Time Held: 2 days, 0:00:00
+2025-03-23 19:10:44,829 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $507.46 | Time Held: 7 days, 0:00:00
+2025-03-23 19:10:44,832 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $4667.98 | Time Held: 43 days, 0:00:00
+2025-03-23 19:10:44,833 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $5678.39 | Time Held: 45 days, 0:00:00
+2025-03-23 19:10:44,834 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-371.11 | Time Held: 61 days, 0:00:00
+2025-03-23 19:10:44,840 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $32.58 | Time Held: 5 days, 0:00:00
+2025-03-23 19:10:44,844 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $2875.56 | Time Held: 15 days, 0:00:00
+2025-03-23 19:10:44,848 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $929.70 | Time Held: 14 days, 0:00:00
+2025-03-23 19:10:44,850 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $4067.05 | Time Held: 42 days, 0:00:00
+2025-03-23 19:10:44,854 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $6770.79 | Time Held: 34 days, 0:00:00
+2025-03-23 19:10:44,863 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-5732.48 | Time Held: 114 days, 0:00:00
+2025-03-23 19:10:44,868 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-3058.85 | Time Held: 188 days, 0:00:00
+2025-03-23 19:10:44,870 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-4577.16 | Time Held: 193 days, 0:00:00
+2025-03-23 19:10:44,874 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $1078.86 | Time Held: 93 days, 0:00:00
+2025-03-23 19:10:44,878 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-131.27 | Time Held: 64 days, 0:00:00
+2025-03-23 19:10:44,881 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-119.15 | Time Held: 95 days, 0:00:00
+2025-03-23 19:10:44,885 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $-8678.47 | Time Held: 188 days, 0:00:00
+2025-03-23 19:10:44,890 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $778.59 | Time Held: 68 days, 0:00:00
+2025-03-23 19:10:44,891 | INFO | 💰 TRADE CLOSED (GOOGL) | PnL: $-922.58 | Time Held: 125 days, 0:00:00
+2025-03-23 19:10:44,892 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-10408.25 | Time Held: 103 days, 0:00:00
+2025-03-23 19:10:44,895 | INFO | 💰 TRADE CLOSED (MSFT) | PnL: $602.74 | Time Held: 29 days, 0:00:00
+2025-03-23 19:10:44,897 | INFO | 💰 TRADE CLOSED (AAPL) | PnL: $-2505.58 | Time Held: 78 days, 0:00:00
+2025-03-23 19:10:44,902 | INFO | 📊 Equity curve saved for portfolio
+2025-03-23 19:10:44,902 | INFO | ✅ Final Portfolio Value: $145410.49 | Time: 1.02s
+2025-03-23 19:13:35,726 | INFO | 
+📈 Running portfolio backtest with $100000 starting capital.
+2025-03-23 19:13:35,789 | INFO | 💰 TRADE CLOSED (FTNT) | PnL: $-4548.60 | Time Held: 167 days, 0:00:00
+2025-03-23 19:13:35,811 | INFO | 💰 TRADE CLOSED (QUBT) | PnL: $-245893.53 | Time Held: 185 days, 0:00:00
+2025-03-23 19:13:35,814 | INFO | 📊 Equity curve saved for portfolio
+2025-03-23 19:13:35,814 | INFO | ✅ Final Portfolio Value: $398588.44 | Time: 0.73s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | PnL: $-1378.54 | Time Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | PnL: $-10318.90 | Time Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | PnL: $-14239.80 | Time Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | PnL: $1714.19 | Time Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | PnL: $-1474.37 | Time Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | PnL: $-2074.63 | Time Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | PnL: $-1833.39 | Time Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | PnL: $-3450.02 | Time Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | PnL: $1415.77 | Time Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | PnL: $663.61 | Time Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | PnL: $-559.03 | Time Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | PnL: $-6036.82 | Time Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | PnL: $-14975.94 | Time Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | PnL: $488.58 | Time Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | PnL: $2315.71 | Time Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | PnL: $1324.07 | Time Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | PnL: $-2969.29 | Time Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | PnL: $13998.73 | Time Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | PnL: $2506.41 | Time Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | PnL: $1724.24 | Time Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | PnL: $-590.63 | Time Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | PnL: $507.46 | Time Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | PnL: $4667.98 | Time Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | PnL: $5678.40 | Time Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | PnL: $-371.10 | Time Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | PnL: $32.57 | Time Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | PnL: $2875.56 | Time Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | PnL: $929.70 | Time Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | PnL: $4067.04 | Time Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | PnL: $6770.78 | Time Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | PnL: $-5732.48 | Time Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | PnL: $-3058.85 | Time Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | PnL: $-4577.16 | Time Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | PnL: $1078.86 | Time Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | PnL: $-131.27 | Time Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | PnL: $-119.15 | Time Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | PnL: $-8678.46 | Time Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | PnL: $778.59 | Time Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | PnL: $-922.57 | Time Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | PnL: $-10408.25 | Time Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | PnL: $602.74 | Time Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | PnL: $-2505.58 | Time Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+✅ Final Portfolio Value: $145410.47 | Time: 1.06s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | PnL: $-1378.54 | Time Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | PnL: $-10318.90 | Time Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | PnL: $-14239.80 | Time Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | PnL: $1714.19 | Time Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | PnL: $-1474.38 | Time Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | PnL: $-2074.63 | Time Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | PnL: $-1833.39 | Time Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | PnL: $-3450.02 | Time Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | PnL: $1415.78 | Time Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | PnL: $663.61 | Time Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | PnL: $-559.03 | Time Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | PnL: $-6036.82 | Time Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | PnL: $-14975.94 | Time Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | PnL: $488.57 | Time Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | PnL: $2315.70 | Time Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | PnL: $1324.07 | Time Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | PnL: $-2969.29 | Time Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | PnL: $13998.73 | Time Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | PnL: $2506.41 | Time Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | PnL: $1724.24 | Time Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | PnL: $-590.63 | Time Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | PnL: $507.46 | Time Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | PnL: $4667.98 | Time Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | PnL: $5678.38 | Time Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | PnL: $-371.12 | Time Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | PnL: $32.58 | Time Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | PnL: $2875.56 | Time Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | PnL: $929.71 | Time Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | PnL: $4067.05 | Time Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | PnL: $6770.79 | Time Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | PnL: $-5732.48 | Time Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | PnL: $-3058.85 | Time Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | PnL: $-4577.16 | Time Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | PnL: $1078.86 | Time Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | PnL: $-131.27 | Time Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | PnL: $-119.15 | Time Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | PnL: $-8678.46 | Time Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | PnL: $778.59 | Time Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | PnL: $-922.57 | Time Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | PnL: $-10408.25 | Time Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | PnL: $602.74 | Time Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | PnL: $-2505.58 | Time Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+✅ Final Portfolio Value: $145410.51 | Time: 0.94s
+
+📈 Running portfolio backtest with $100000 starting capital.
+
+📈 Running portfolio backtest with $100000 starting capital.
+
+📈 Running portfolio backtest with $100000 starting capital.
+2024-08-05 | 💰 TRADE CLOSED (NVDA) | PnL: $-2712.76 | Time Held: 76 days, 0:00:00
+2024-09-24 | 💰 TRADE CLOSED (NVDA) | PnL: $-7318.64 | Time Held: 15 days, 0:00:00
+2024-12-17 | 💰 TRADE CLOSED (NVDA) | PnL: $-5484.89 | Time Held: 76 days, 0:00:00
+📊 Equity curve saved for portfolio
+✅ Final Portfolio Value: $115516.29 | Time: 0.32s
+
+📈 Running portfolio backtest with $100000 starting capital.
+
+📈 Running portfolio backtest with $100000 starting capital.
+
+📈 Running portfolio backtest with $100000 starting capital.
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-11-23 | 💰 TRADE CLOSED (NVDA) | PnL: $-44797.15 | Time Held: 216 days, 0:00:00
+2020-12-04 | 💰 TRADE CLOSED (NVDA) | PnL: $-96.87 | Time Held: 2 days, 0:00:00
+2021-03-16 | 💰 TRADE CLOSED (NVDA) | PnL: $-329.27 | Time Held: 43 days, 0:00:00
+2021-10-13 | 💰 TRADE CLOSED (NVDA) | PnL: $-23334.25 | Time Held: 180 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (NVDA) | PnL: $-8969.02 | Time Held: 69 days, 0:00:00
+2022-04-26 | 💰 TRADE CLOSED (NVDA) | PnL: $32138.47 | Time Held: 28 days, 0:00:00
+2022-09-09 | 💰 TRADE CLOSED (NVDA) | PnL: $17787.15 | Time Held: 35 days, 0:00:00
+2023-01-13 | 💰 TRADE CLOSED (NVDA) | PnL: $-2523.89 | Time Held: 63 days, 0:00:00
+2023-09-29 | 💰 TRADE CLOSED (NVDA) | PnL: $-81562.66 | Time Held: 242 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (NVDA) | PnL: $-73887.43 | Time Held: 166 days, 0:00:00
+2024-08-05 | 💰 TRADE CLOSED (NVDA) | PnL: $-7747.85 | Time Held: 76 days, 0:00:00
+2024-09-24 | 💰 TRADE CLOSED (NVDA) | PnL: $-20918.65 | Time Held: 15 days, 0:00:00
+2024-12-17 | 💰 TRADE CLOSED (NVDA) | PnL: $-15657.90 | Time Held: 76 days, 0:00:00
+📊 Equity curve saved for portfolio
+✅ Final Portfolio Value: $329899.32 | Time: 0.51s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-05-01 | Sell: 2020-09-28 | PnL: $-1378.54 | Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-10318.90 | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-14239.79 | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $1714.19 | Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-1474.38 | Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-10-29 | Sell: 2021-01-13 | PnL: $-2074.63 | Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-1833.39 | Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-3450.02 | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $1415.78 | Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $663.61 | Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-559.02 | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-6036.81 | Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-01-26 | Sell: 2021-10-08 | PnL: $-14975.93 | Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-11-04 | Sell: 2021-12-22 | PnL: $488.58 | Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2315.71 | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-01-04 | Sell: 2022-01-06 | PnL: $1324.07 | Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-2969.29 | Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-04-01 | Sell: 2022-04-27 | PnL: $13998.73 | Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $2506.41 | Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1724.24 | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-590.63 | Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-07-20 | Sell: 2022-07-27 | PnL: $507.46 | Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-08-01 | Sell: 2022-09-13 | PnL: $4667.98 | Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $5678.40 | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-371.11 | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $32.58 | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2875.56 | Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-12-08 | Sell: 2022-12-22 | PnL: $929.71 | Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $4067.05 | Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-02-03 | Sell: 2023-03-09 | PnL: $6770.79 | Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-03-28 | Sell: 2023-07-20 | PnL: $-5732.49 | Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3058.85 | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-4577.17 | Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-08-01 | Sell: 2023-11-02 | PnL: $1078.87 | Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-131.28 | Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-11-30 | Sell: 2024-03-04 | PnL: $-119.15 | Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-8678.46 | Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $778.59 | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-922.57 | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-10408.26 | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $602.74 | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-2505.58 | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+✅ Final Portfolio Value: $145410.45 | Time: 1.21s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-05-01 | Sell: 2020-09-28 | PnL: $-1378.54 | Return: 10.73% | Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-10318.90 | Return: 21.54% | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-14239.81 | Return: 54.57% | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $1714.19 | Return: -5.38% | Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-1474.39 | Return: 2.42% | Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-10-29 | Sell: 2021-01-13 | PnL: $-2074.63 | Return: 12.23% | Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-1833.39 | Return: 7.71% | Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-3450.02 | Return: 8.43% | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $1415.78 | Return: -5.72% | Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $663.60 | Return: -1.33% | Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-559.03 | Return: 2.21% | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-6036.81 | Return: 12.48% | Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-01-26 | Sell: 2021-10-08 | PnL: $-14975.94 | Return: 46.53% | Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-11-04 | Sell: 2021-12-22 | PnL: $488.57 | Return: -1.25% | Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2315.70 | Return: -3.05% | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-01-04 | Sell: 2022-01-06 | PnL: $1324.07 | Return: -4.61% | Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-2969.29 | Return: 16.07% | Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-04-01 | Sell: 2022-04-27 | PnL: $13998.73 | Return: -18.45% | Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $2506.40 | Return: -6.84% | Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1724.24 | Return: -8.93% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-590.63 | Return: 3.83% | Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-07-20 | Sell: 2022-07-27 | PnL: $507.46 | Return: -0.74% | Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-08-01 | Sell: 2022-09-13 | PnL: $4667.98 | Return: -9.18% | Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $5678.39 | Return: -11.55% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-371.11 | Return: 1.14% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $32.58 | Return: -0.05% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2875.55 | Return: -9.77% | Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-12-08 | Sell: 2022-12-22 | PnL: $929.71 | Return: -6.35% | Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $4067.04 | Return: -6.35% | Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-02-03 | Sell: 2023-03-09 | PnL: $6770.79 | Return: -11.89% | Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-03-28 | Sell: 2023-07-20 | PnL: $-5732.48 | Return: 17.98% | Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3058.85 | Return: 21.24% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-4577.16 | Return: 15.49% | Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-08-01 | Sell: 2023-11-02 | PnL: $1078.86 | Return: -3.09% | Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-131.27 | Return: 0.33% | Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-11-30 | Sell: 2024-03-04 | PnL: $-119.15 | Return: 0.62% | Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-8678.47 | Return: 20.92% | Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $778.59 | Return: -3.63% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-922.57 | Return: 2.29% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-10408.26 | Return: 23.03% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $602.74 | Return: -1.71% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-2505.58 | Return: 3.59% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+✅ Final Portfolio Value: $145410.53 | Time: 0.95s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-05-01 | Sell: 2020-09-28 | PnL: $-1378.54 | Return: 10.73% | Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-10318.90 | Return: 21.54% | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-14239.81 | Return: 54.57% | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $1714.19 | Return: -5.38% | Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-1474.40 | Return: 2.42% | Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-10-29 | Sell: 2021-01-13 | PnL: $-2074.63 | Return: 12.23% | Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-1833.39 | Return: 7.71% | Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-3450.02 | Return: 8.43% | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $1415.77 | Return: -5.72% | Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $663.61 | Return: -1.33% | Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-559.03 | Return: 2.21% | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-6036.81 | Return: 12.48% | Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-01-26 | Sell: 2021-10-08 | PnL: $-14975.93 | Return: 46.53% | Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-11-04 | Sell: 2021-12-22 | PnL: $488.58 | Return: -1.25% | Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2315.68 | Return: -3.05% | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-01-04 | Sell: 2022-01-06 | PnL: $1324.07 | Return: -4.61% | Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-2969.29 | Return: 16.07% | Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-04-01 | Sell: 2022-04-27 | PnL: $13998.73 | Return: -18.45% | Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $2506.41 | Return: -6.84% | Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1724.24 | Return: -8.93% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-590.63 | Return: 3.83% | Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-07-20 | Sell: 2022-07-27 | PnL: $507.46 | Return: -0.74% | Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-08-01 | Sell: 2022-09-13 | PnL: $4667.98 | Return: -9.18% | Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $5678.40 | Return: -11.55% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-371.11 | Return: 1.14% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $32.58 | Return: -0.05% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2875.56 | Return: -9.77% | Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-12-08 | Sell: 2022-12-22 | PnL: $929.71 | Return: -6.35% | Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $4067.04 | Return: -6.35% | Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-02-03 | Sell: 2023-03-09 | PnL: $6770.79 | Return: -11.89% | Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-03-28 | Sell: 2023-07-20 | PnL: $-5732.48 | Return: 17.98% | Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3058.85 | Return: 21.24% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-4577.17 | Return: 15.49% | Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-08-01 | Sell: 2023-11-02 | PnL: $1078.87 | Return: -3.09% | Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-131.28 | Return: 0.33% | Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-11-30 | Sell: 2024-03-04 | PnL: $-119.15 | Return: 0.62% | Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-8678.46 | Return: 20.92% | Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $778.59 | Return: -3.63% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-922.57 | Return: 2.29% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-10408.26 | Return: 23.03% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $602.74 | Return: -1.71% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-2505.58 | Return: 3.59% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📉 Portfolio Sharpe Ratio: 0.60
+✅ Final Portfolio Value: $145410.51 | Time: 0.94s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-05-01 | Sell: 2020-09-28 | PnL: $-1378.54 | Return: 10.73% | Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-10318.89 | Return: 21.54% | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-14239.80 | Return: 54.57% | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $1714.19 | Return: -5.38% | Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-1474.39 | Return: 2.42% | Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-10-29 | Sell: 2021-01-13 | PnL: $-2074.63 | Return: 12.23% | Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-1833.39 | Return: 7.71% | Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-3450.02 | Return: 8.43% | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $1415.78 | Return: -5.72% | Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $663.60 | Return: -1.33% | Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-559.02 | Return: 2.21% | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-6036.80 | Return: 12.48% | Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-01-26 | Sell: 2021-10-08 | PnL: $-14975.93 | Return: 46.53% | Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-11-04 | Sell: 2021-12-22 | PnL: $488.58 | Return: -1.25% | Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2315.70 | Return: -3.05% | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-01-04 | Sell: 2022-01-06 | PnL: $1324.07 | Return: -4.61% | Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-2969.29 | Return: 16.07% | Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-04-01 | Sell: 2022-04-27 | PnL: $13998.73 | Return: -18.45% | Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $2506.41 | Return: -6.84% | Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1724.24 | Return: -8.93% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-590.64 | Return: 3.83% | Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-07-20 | Sell: 2022-07-27 | PnL: $507.45 | Return: -0.74% | Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-08-01 | Sell: 2022-09-13 | PnL: $4667.98 | Return: -9.18% | Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $5678.40 | Return: -11.55% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-371.11 | Return: 1.14% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $32.58 | Return: -0.05% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2875.56 | Return: -9.77% | Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-12-08 | Sell: 2022-12-22 | PnL: $929.70 | Return: -6.35% | Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $4067.04 | Return: -6.35% | Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-02-03 | Sell: 2023-03-09 | PnL: $6770.78 | Return: -11.89% | Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-03-28 | Sell: 2023-07-20 | PnL: $-5732.48 | Return: 17.98% | Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3058.85 | Return: 21.24% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-4577.16 | Return: 15.49% | Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-08-01 | Sell: 2023-11-02 | PnL: $1078.86 | Return: -3.09% | Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-131.28 | Return: 0.33% | Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-11-30 | Sell: 2024-03-04 | PnL: $-119.15 | Return: 0.62% | Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-8678.46 | Return: 20.92% | Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $778.59 | Return: -3.63% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-922.58 | Return: 2.29% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-10408.25 | Return: 23.03% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $602.74 | Return: -1.71% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-2505.58 | Return: 3.59% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📉 Portfolio Sharpe Ratio: 0.60
+📉 Portfolio Sortino Ratio: 0.68
+🔥 Portfolio Calmar Ratio: 1.29
+✅ Final Portfolio Value: $145410.50 | Time: 1.16s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-05-01 | Sell: 2020-09-28 | PnL: $-1378.54 | Return: 10.73% | Impact: -1.0653% | Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-10318.90 | Return: 21.54% | Impact: -8.1143% | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-14239.80 | Return: 54.57% | Impact: -11.3071% | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $1714.18 | Return: -5.38% | Impact: 1.3969% | Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-1474.38 | Return: 2.42% | Impact: -1.1329% | Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-10-29 | Sell: 2021-01-13 | PnL: $-2074.63 | Return: 12.23% | Impact: -1.5847% | Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-1833.39 | Return: 7.71% | Impact: -1.3459% | Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-3450.02 | Return: 8.43% | Impact: -2.5587% | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $1415.78 | Return: -5.72% | Impact: 1.0205% | Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $663.61 | Return: -1.33% | Impact: 0.4784% | Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-559.02 | Return: 2.21% | Impact: -0.3760% | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-6036.81 | Return: 12.48% | Impact: -3.9615% | Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-01-26 | Sell: 2021-10-08 | PnL: $-14975.93 | Return: 46.53% | Impact: -9.8172% | Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-11-04 | Sell: 2021-12-22 | PnL: $488.58 | Return: -1.25% | Impact: 0.3098% | Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2315.70 | Return: -3.05% | Impact: 1.5296% | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-01-04 | Sell: 2022-01-06 | PnL: $1324.08 | Return: -4.61% | Impact: 0.8746% | Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-2969.29 | Return: 16.07% | Impact: -1.9614% | Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-04-01 | Sell: 2022-04-27 | PnL: $13998.74 | Return: -18.45% | Impact: 10.5331% | Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $2506.41 | Return: -6.84% | Impact: 1.8748% | Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1724.25 | Return: -8.93% | Impact: 1.2949% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-590.64 | Return: 3.83% | Impact: -0.4439% | Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-07-20 | Sell: 2022-07-27 | PnL: $507.45 | Return: -0.74% | Impact: 0.3814% | Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-08-01 | Sell: 2022-09-13 | PnL: $4667.98 | Return: -9.18% | Impact: 3.7342% | Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $5678.39 | Return: -11.55% | Impact: 4.6343% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-371.12 | Return: 1.14% | Impact: -0.3011% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $32.58 | Return: -0.05% | Impact: 0.0264% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2875.56 | Return: -9.77% | Impact: 2.4691% | Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-12-08 | Sell: 2022-12-22 | PnL: $929.70 | Return: -6.35% | Impact: 0.8065% | Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $4067.04 | Return: -6.35% | Impact: 3.5254% | Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-02-03 | Sell: 2023-03-09 | PnL: $6770.79 | Return: -11.89% | Impact: 6.2651% | Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-03-28 | Sell: 2023-07-20 | PnL: $-5732.48 | Return: 17.98% | Impact: -4.5035% | Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3058.85 | Return: 21.24% | Impact: -2.5016% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-4577.16 | Return: 15.49% | Impact: -3.7907% | Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-08-01 | Sell: 2023-11-02 | PnL: $1078.86 | Return: -3.09% | Impact: 0.8734% | Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-131.27 | Return: 0.33% | Impact: -0.1003% | Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-11-30 | Sell: 2024-03-04 | PnL: $-119.15 | Return: 0.62% | Impact: -0.0900% | Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-8678.47 | Return: 20.92% | Impact: -6.5679% | Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $778.59 | Return: -3.63% | Impact: 0.5801% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-922.57 | Return: 2.29% | Impact: -0.6873% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-10408.25 | Return: 23.03% | Impact: -7.4153% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $602.74 | Return: -1.71% | Impact: 0.4238% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-2505.58 | Return: 3.59% | Impact: -1.7585% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📉 Portfolio Sharpe Ratio: 0.60
+📉 Portfolio Sortino Ratio: 0.68
+🔥 Portfolio Calmar Ratio: 1.29
+✅ Final Portfolio Value: $145410.50 | Time: 1.54s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-05-01 | Sell: 2020-09-28 | PnL: $-1378.54 | Return: -10.73% | Impact: -1.0653% | Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-10318.89 | Return: -21.54% | Impact: -8.1143% | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-14239.80 | Return: -54.57% | Impact: -11.3071% | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $1714.18 | Return: -5.38% | Impact: 1.3969% | Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-1474.38 | Return: -2.42% | Impact: -1.1329% | Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-10-29 | Sell: 2021-01-13 | PnL: $-2074.63 | Return: -12.23% | Impact: -1.5847% | Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-1833.39 | Return: -7.71% | Impact: -1.3459% | Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-3450.03 | Return: -8.43% | Impact: -2.5587% | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $1415.78 | Return: -5.72% | Impact: 1.0205% | Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $663.60 | Return: -1.33% | Impact: 0.4783% | Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-559.03 | Return: -2.21% | Impact: -0.3760% | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-6036.81 | Return: -12.48% | Impact: -3.9615% | Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-01-26 | Sell: 2021-10-08 | PnL: $-14975.94 | Return: -46.53% | Impact: -9.8172% | Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-11-04 | Sell: 2021-12-22 | PnL: $488.58 | Return: -1.25% | Impact: 0.3098% | Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2315.70 | Return: -3.05% | Impact: 1.5296% | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-01-04 | Sell: 2022-01-06 | PnL: $1324.07 | Return: -4.61% | Impact: 0.8746% | Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-2969.29 | Return: -16.07% | Impact: -1.9614% | Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-04-01 | Sell: 2022-04-27 | PnL: $13998.74 | Return: -18.45% | Impact: 10.5331% | Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $2506.41 | Return: -6.84% | Impact: 1.8748% | Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1724.24 | Return: -8.93% | Impact: 1.2949% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-590.64 | Return: -3.83% | Impact: -0.4439% | Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-07-20 | Sell: 2022-07-27 | PnL: $507.46 | Return: -0.74% | Impact: 0.3814% | Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-08-01 | Sell: 2022-09-13 | PnL: $4667.98 | Return: -9.18% | Impact: 3.7342% | Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $5678.39 | Return: -11.55% | Impact: 4.6343% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-371.11 | Return: -1.14% | Impact: -0.3011% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $32.57 | Return: -0.05% | Impact: 0.0264% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2875.56 | Return: -9.77% | Impact: 2.4691% | Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-12-08 | Sell: 2022-12-22 | PnL: $929.70 | Return: -6.35% | Impact: 0.8065% | Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $4067.05 | Return: -6.35% | Impact: 3.5255% | Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-02-03 | Sell: 2023-03-09 | PnL: $6770.79 | Return: -11.89% | Impact: 6.2651% | Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-03-28 | Sell: 2023-07-20 | PnL: $-5732.48 | Return: -17.98% | Impact: -4.5035% | Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3058.85 | Return: -21.24% | Impact: -2.5016% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-4577.16 | Return: -15.49% | Impact: -3.7907% | Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-08-01 | Sell: 2023-11-02 | PnL: $1078.87 | Return: -3.09% | Impact: 0.8734% | Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-131.27 | Return: -0.33% | Impact: -0.1003% | Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-11-30 | Sell: 2024-03-04 | PnL: $-119.15 | Return: -0.62% | Impact: -0.0900% | Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-8678.46 | Return: -20.92% | Impact: -6.5679% | Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $778.59 | Return: -3.63% | Impact: 0.5801% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-922.58 | Return: -2.29% | Impact: -0.6873% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-10408.26 | Return: -23.03% | Impact: -7.4153% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $602.74 | Return: -1.71% | Impact: 0.4238% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-2505.58 | Return: -3.59% | Impact: -1.7585% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📉 Portfolio Sharpe Ratio: 0.60
+📉 Portfolio Sortino Ratio: 0.68
+🔥 Portfolio Calmar Ratio: 1.29
+✅ Final Portfolio Value: $145410.46 | Time: 1.05s
+
+📈 Running portfolio backtest with $100000 starting capital.
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-05-01 | Sell: 2020-09-28 | PnL: $-1378.54 | Return: 10.73% | Impact: -1.0653% | Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-10318.90 | Return: 21.54% | Impact: -8.1143% | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-14239.79 | Return: 54.57% | Impact: -11.3071% | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $1714.19 | Return: -5.38% | Impact: 1.3969% | Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-1474.39 | Return: 2.42% | Impact: -1.1329% | Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-10-29 | Sell: 2021-01-13 | PnL: $-2074.63 | Return: 12.23% | Impact: -1.5847% | Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-1833.39 | Return: 7.71% | Impact: -1.3459% | Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-3450.02 | Return: 8.43% | Impact: -2.5587% | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $1415.77 | Return: -5.72% | Impact: 1.0205% | Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $663.61 | Return: -1.33% | Impact: 0.4784% | Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-559.03 | Return: 2.21% | Impact: -0.3760% | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-6036.80 | Return: 12.48% | Impact: -3.9614% | Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-01-26 | Sell: 2021-10-08 | PnL: $-14975.94 | Return: 46.53% | Impact: -9.8172% | Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-11-04 | Sell: 2021-12-22 | PnL: $488.58 | Return: -1.25% | Impact: 0.3098% | Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2315.70 | Return: -3.05% | Impact: 1.5296% | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-01-04 | Sell: 2022-01-06 | PnL: $1324.07 | Return: -4.61% | Impact: 0.8746% | Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-2969.30 | Return: 16.07% | Impact: -1.9614% | Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-04-01 | Sell: 2022-04-27 | PnL: $13998.73 | Return: -18.45% | Impact: 10.5331% | Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $2506.40 | Return: -6.84% | Impact: 1.8748% | Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1724.25 | Return: -8.93% | Impact: 1.2949% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-590.64 | Return: 3.83% | Impact: -0.4439% | Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-07-20 | Sell: 2022-07-27 | PnL: $507.46 | Return: -0.74% | Impact: 0.3814% | Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-08-01 | Sell: 2022-09-13 | PnL: $4667.98 | Return: -9.18% | Impact: 3.7342% | Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $5678.38 | Return: -11.55% | Impact: 4.6343% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-371.12 | Return: 1.14% | Impact: -0.3011% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $32.58 | Return: -0.05% | Impact: 0.0264% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2875.56 | Return: -9.77% | Impact: 2.4691% | Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-12-08 | Sell: 2022-12-22 | PnL: $929.70 | Return: -6.35% | Impact: 0.8065% | Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $4067.05 | Return: -6.35% | Impact: 3.5255% | Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-02-03 | Sell: 2023-03-09 | PnL: $6770.78 | Return: -11.89% | Impact: 6.2651% | Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-03-28 | Sell: 2023-07-20 | PnL: $-5732.48 | Return: 17.98% | Impact: -4.5035% | Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3058.85 | Return: 21.24% | Impact: -2.5016% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-4577.16 | Return: 15.49% | Impact: -3.7907% | Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-08-01 | Sell: 2023-11-02 | PnL: $1078.86 | Return: -3.09% | Impact: 0.8734% | Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-131.27 | Return: 0.33% | Impact: -0.1003% | Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-11-30 | Sell: 2024-03-04 | PnL: $-119.15 | Return: 0.62% | Impact: -0.0900% | Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-8678.46 | Return: 20.92% | Impact: -6.5679% | Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $778.59 | Return: -3.63% | Impact: 0.5801% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-922.57 | Return: 2.29% | Impact: -0.6873% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-10408.25 | Return: 23.03% | Impact: -7.4153% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $602.74 | Return: -1.71% | Impact: 0.4238% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-2505.58 | Return: 3.59% | Impact: -1.7585% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📉 Portfolio Sharpe Ratio: 0.60
+📉 Portfolio Sortino Ratio: 0.68
+🔥 Portfolio Calmar Ratio: 1.29
+✅ Final Portfolio Value: $145410.49 | Time: 0.94s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-05-01 | Sell: 2020-09-28 | PnL: $-1378.54 | Return: 10.73% | Impact: -1.0653% | Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-10318.89 | Return: 21.54% | Impact: -8.1143% | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-14239.80 | Return: 54.57% | Impact: -11.3071% | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $1714.19 | Return: -5.38% | Impact: 1.3969% | Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-1474.37 | Return: 2.42% | Impact: -1.1329% | Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-10-29 | Sell: 2021-01-13 | PnL: $-2074.64 | Return: 12.23% | Impact: -1.5848% | Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-1833.39 | Return: 7.71% | Impact: -1.3459% | Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-3450.03 | Return: 8.43% | Impact: -2.5587% | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $1415.78 | Return: -5.72% | Impact: 1.0205% | Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $663.61 | Return: -1.33% | Impact: 0.4784% | Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-559.02 | Return: 2.21% | Impact: -0.3760% | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-6036.80 | Return: 12.48% | Impact: -3.9614% | Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-01-26 | Sell: 2021-10-08 | PnL: $-14975.94 | Return: 46.53% | Impact: -9.8172% | Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-11-04 | Sell: 2021-12-22 | PnL: $488.57 | Return: -1.25% | Impact: 0.3098% | Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2315.70 | Return: -3.05% | Impact: 1.5296% | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-01-04 | Sell: 2022-01-06 | PnL: $1324.07 | Return: -4.61% | Impact: 0.8746% | Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-2969.29 | Return: 16.07% | Impact: -1.9614% | Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-04-01 | Sell: 2022-04-27 | PnL: $13998.73 | Return: -18.45% | Impact: 10.5331% | Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $2506.41 | Return: -6.84% | Impact: 1.8748% | Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1724.24 | Return: -8.93% | Impact: 1.2949% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-590.64 | Return: 3.83% | Impact: -0.4439% | Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-07-20 | Sell: 2022-07-27 | PnL: $507.46 | Return: -0.74% | Impact: 0.3814% | Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-08-01 | Sell: 2022-09-13 | PnL: $4667.98 | Return: -9.18% | Impact: 3.7342% | Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $5678.39 | Return: -11.55% | Impact: 4.6343% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-371.12 | Return: 1.14% | Impact: -0.3011% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $32.58 | Return: -0.05% | Impact: 0.0264% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2875.56 | Return: -9.77% | Impact: 2.4691% | Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-12-08 | Sell: 2022-12-22 | PnL: $929.71 | Return: -6.35% | Impact: 0.8065% | Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $4067.04 | Return: -6.35% | Impact: 3.5254% | Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-02-03 | Sell: 2023-03-09 | PnL: $6770.79 | Return: -11.89% | Impact: 6.2651% | Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-03-28 | Sell: 2023-07-20 | PnL: $-5732.48 | Return: 17.98% | Impact: -4.5035% | Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3058.85 | Return: 21.24% | Impact: -2.5016% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-4577.16 | Return: 15.49% | Impact: -3.7907% | Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-08-01 | Sell: 2023-11-02 | PnL: $1078.86 | Return: -3.09% | Impact: 0.8734% | Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-131.28 | Return: 0.33% | Impact: -0.1003% | Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-11-30 | Sell: 2024-03-04 | PnL: $-119.15 | Return: 0.62% | Impact: -0.0900% | Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-8678.46 | Return: 20.92% | Impact: -6.5679% | Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $778.59 | Return: -3.63% | Impact: 0.5801% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-922.57 | Return: 2.29% | Impact: -0.6873% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-10408.25 | Return: 23.03% | Impact: -7.4153% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $602.74 | Return: -1.71% | Impact: 0.4238% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-2505.58 | Return: 3.59% | Impact: -1.7585% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📉 Portfolio Sharpe Ratio: 0.60
+📉 Portfolio Sortino Ratio: 0.68
+🔥 Portfolio Calmar Ratio: 1.29
+✅ Final Portfolio Value: $145410.48 | Time: 1.19s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-05-01 | Sell: 2020-09-28 | PnL: $-1378.54 | Return: 10.73% | Impact: -1.0653% | Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-10318.90 | Return: 21.54% | Impact: -8.1143% | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-14239.80 | Return: 54.57% | Impact: -11.3071% | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $1714.18 | Return: -5.38% | Impact: 1.3969% | Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-1474.38 | Return: 2.42% | Impact: -1.1329% | Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-10-29 | Sell: 2021-01-13 | PnL: $-2074.63 | Return: 12.23% | Impact: -1.5847% | Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-1833.39 | Return: 7.71% | Impact: -1.3459% | Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-3450.02 | Return: 8.43% | Impact: -2.5587% | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $1415.78 | Return: -5.72% | Impact: 1.0205% | Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $663.61 | Return: -1.33% | Impact: 0.4784% | Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-559.03 | Return: 2.21% | Impact: -0.3760% | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-6036.80 | Return: 12.48% | Impact: -3.9614% | Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-01-26 | Sell: 2021-10-08 | PnL: $-14975.94 | Return: 46.53% | Impact: -9.8172% | Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-11-04 | Sell: 2021-12-22 | PnL: $488.57 | Return: -1.25% | Impact: 0.3098% | Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2315.69 | Return: -3.05% | Impact: 1.5296% | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-01-04 | Sell: 2022-01-06 | PnL: $1324.07 | Return: -4.61% | Impact: 0.8746% | Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-2969.29 | Return: 16.07% | Impact: -1.9614% | Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-04-01 | Sell: 2022-04-27 | PnL: $13998.73 | Return: -18.45% | Impact: 10.5331% | Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $2506.41 | Return: -6.84% | Impact: 1.8748% | Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1724.24 | Return: -8.93% | Impact: 1.2949% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-590.64 | Return: 3.83% | Impact: -0.4439% | Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-07-20 | Sell: 2022-07-27 | PnL: $507.46 | Return: -0.74% | Impact: 0.3814% | Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-08-01 | Sell: 2022-09-13 | PnL: $4667.98 | Return: -9.18% | Impact: 3.7342% | Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $5678.40 | Return: -11.55% | Impact: 4.6343% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-371.12 | Return: 1.14% | Impact: -0.3011% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $32.58 | Return: -0.05% | Impact: 0.0264% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2875.56 | Return: -9.77% | Impact: 2.4691% | Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-12-08 | Sell: 2022-12-22 | PnL: $929.71 | Return: -6.35% | Impact: 0.8065% | Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $4067.05 | Return: -6.35% | Impact: 3.5255% | Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-02-03 | Sell: 2023-03-09 | PnL: $6770.79 | Return: -11.89% | Impact: 6.2651% | Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-03-28 | Sell: 2023-07-20 | PnL: $-5732.48 | Return: 17.98% | Impact: -4.5035% | Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3058.85 | Return: 21.24% | Impact: -2.5016% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-4577.17 | Return: 15.49% | Impact: -3.7907% | Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-08-01 | Sell: 2023-11-02 | PnL: $1078.86 | Return: -3.09% | Impact: 0.8734% | Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-131.27 | Return: 0.33% | Impact: -0.1003% | Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-11-30 | Sell: 2024-03-04 | PnL: $-119.15 | Return: 0.62% | Impact: -0.0900% | Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-8678.46 | Return: 20.92% | Impact: -6.5679% | Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $778.59 | Return: -3.63% | Impact: 0.5801% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-922.57 | Return: 2.29% | Impact: -0.6873% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-10408.25 | Return: 23.03% | Impact: -7.4153% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $602.74 | Return: -1.71% | Impact: 0.4238% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-2505.58 | Return: 3.59% | Impact: -1.7585% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📉 Portfolio Sharpe Ratio: 0.60
+📉 Portfolio Sortino Ratio: 0.68
+🔥 Portfolio Calmar Ratio: 1.29
+✅ Final Portfolio Value: $145410.50 | Time: 1.15s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-05-01 | Sell: 2020-09-28 | PnL: $-1378.54 | Return: 10.73% | Impact: -1.0653% | Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-10318.89 | Return: 21.54% | Impact: -8.1143% | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-14239.80 | Return: 54.57% | Impact: -11.3071% | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $1714.19 | Return: -5.38% | Impact: 1.3969% | Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-1474.39 | Return: 2.42% | Impact: -1.1329% | Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-10-29 | Sell: 2021-01-13 | PnL: $-2074.63 | Return: 12.23% | Impact: -1.5847% | Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-1833.39 | Return: 7.71% | Impact: -1.3459% | Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-3450.02 | Return: 8.43% | Impact: -2.5587% | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $1415.78 | Return: -5.72% | Impact: 1.0205% | Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $663.60 | Return: -1.33% | Impact: 0.4783% | Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-559.02 | Return: 2.21% | Impact: -0.3760% | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-6036.81 | Return: 12.48% | Impact: -3.9615% | Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-01-26 | Sell: 2021-10-08 | PnL: $-14975.94 | Return: 46.53% | Impact: -9.8172% | Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-11-04 | Sell: 2021-12-22 | PnL: $488.58 | Return: -1.25% | Impact: 0.3098% | Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2315.70 | Return: -3.05% | Impact: 1.5296% | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-01-04 | Sell: 2022-01-06 | PnL: $1324.07 | Return: -4.61% | Impact: 0.8746% | Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-2969.29 | Return: 16.07% | Impact: -1.9614% | Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-04-01 | Sell: 2022-04-27 | PnL: $13998.73 | Return: -18.45% | Impact: 10.5331% | Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $2506.41 | Return: -6.84% | Impact: 1.8748% | Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1724.24 | Return: -8.93% | Impact: 1.2949% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-590.64 | Return: 3.83% | Impact: -0.4439% | Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-07-20 | Sell: 2022-07-27 | PnL: $507.46 | Return: -0.74% | Impact: 0.3814% | Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-08-01 | Sell: 2022-09-13 | PnL: $4667.98 | Return: -9.18% | Impact: 3.7342% | Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $5678.39 | Return: -11.55% | Impact: 4.6343% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-371.12 | Return: 1.14% | Impact: -0.3011% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $32.58 | Return: -0.05% | Impact: 0.0264% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2875.56 | Return: -9.77% | Impact: 2.4691% | Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-12-08 | Sell: 2022-12-22 | PnL: $929.70 | Return: -6.35% | Impact: 0.8065% | Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $4067.05 | Return: -6.35% | Impact: 3.5255% | Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-02-03 | Sell: 2023-03-09 | PnL: $6770.79 | Return: -11.89% | Impact: 6.2651% | Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-03-28 | Sell: 2023-07-20 | PnL: $-5732.48 | Return: 17.98% | Impact: -4.5035% | Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3058.85 | Return: 21.24% | Impact: -2.5016% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-4577.16 | Return: 15.49% | Impact: -3.7907% | Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-08-01 | Sell: 2023-11-02 | PnL: $1078.86 | Return: -3.09% | Impact: 0.8734% | Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-131.27 | Return: 0.33% | Impact: -0.1003% | Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-11-30 | Sell: 2024-03-04 | PnL: $-119.15 | Return: 0.62% | Impact: -0.0900% | Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-8678.46 | Return: 20.92% | Impact: -6.5679% | Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $778.59 | Return: -3.63% | Impact: 0.5801% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-922.58 | Return: 2.29% | Impact: -0.6873% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-10408.25 | Return: 23.03% | Impact: -7.4153% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $602.74 | Return: -1.71% | Impact: 0.4238% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-2505.58 | Return: 3.59% | Impact: -1.7585% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 0.60
+📉 Portfolio Sortino Ratio: 0.68
+🔥 Portfolio Calmar Ratio: 1.29
+✅ Final Portfolio Value: $145410.47 | Time: 1.09s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2020-09-28 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-05-01 | Sell: 2020-09-28 | PnL: $-1378.54 | Return: 10.73% | Impact: -1.0653% | Held: 150 days, 0:00:00
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-10318.90 | Return: 21.54% | Impact: -8.1143% | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-14239.80 | Return: 54.57% | Impact: -11.3071% | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $1714.19 | Return: -5.38% | Impact: 1.3969% | Held: 4 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-1474.39 | Return: 2.42% | Impact: -1.1329% | Held: 57 days, 0:00:00
+2021-01-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2020-10-29 | Sell: 2021-01-13 | PnL: $-2074.63 | Return: 12.23% | Impact: -1.5847% | Held: 76 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-1833.39 | Return: 7.71% | Impact: -1.3459% | Held: 116 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-3450.02 | Return: 8.43% | Impact: -2.5587% | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $1415.78 | Return: -5.72% | Impact: 1.0205% | Held: 37 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $663.60 | Return: -1.33% | Impact: 0.4783% | Held: 49 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-559.03 | Return: 2.21% | Impact: -0.3760% | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-6036.83 | Return: 12.48% | Impact: -3.9615% | Held: 108 days, 0:00:00
+2021-10-08 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-01-26 | Sell: 2021-10-08 | PnL: $-14975.93 | Return: 46.53% | Impact: -9.8172% | Held: 255 days, 0:00:00
+2021-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2021-11-04 | Sell: 2021-12-22 | PnL: $488.58 | Return: -1.25% | Impact: 0.3098% | Held: 48 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2315.68 | Return: -3.05% | Impact: 1.5296% | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-01-04 | Sell: 2022-01-06 | PnL: $1324.07 | Return: -4.61% | Impact: 0.8746% | Held: 2 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-2969.30 | Return: 16.07% | Impact: -1.9614% | Held: 85 days, 0:00:00
+2022-04-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-04-01 | Sell: 2022-04-27 | PnL: $13998.73 | Return: -18.45% | Impact: 10.5330% | Held: 26 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $2506.41 | Return: -6.84% | Impact: 1.8748% | Held: 23 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1724.24 | Return: -8.93% | Impact: 1.2949% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-590.64 | Return: 3.83% | Impact: -0.4439% | Held: 2 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-07-20 | Sell: 2022-07-27 | PnL: $507.46 | Return: -0.74% | Impact: 0.3814% | Held: 7 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-08-01 | Sell: 2022-09-13 | PnL: $4667.98 | Return: -9.18% | Impact: 3.7342% | Held: 43 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $5678.39 | Return: -11.55% | Impact: 4.6343% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-371.11 | Return: 1.14% | Impact: -0.3011% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $32.58 | Return: -0.05% | Impact: 0.0264% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2875.56 | Return: -9.77% | Impact: 2.4691% | Held: 15 days, 0:00:00
+2022-12-22 | 💰 TRADE CLOSED (GOOGL) | Buy: 2022-12-08 | Sell: 2022-12-22 | PnL: $929.71 | Return: -6.35% | Impact: 0.8065% | Held: 14 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $4067.05 | Return: -6.35% | Impact: 3.5255% | Held: 42 days, 0:00:00
+2023-03-09 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-02-03 | Sell: 2023-03-09 | PnL: $6770.79 | Return: -11.89% | Impact: 6.2651% | Held: 34 days, 0:00:00
+2023-07-20 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-03-28 | Sell: 2023-07-20 | PnL: $-5732.49 | Return: 17.98% | Impact: -4.5035% | Held: 114 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3058.85 | Return: 21.24% | Impact: -2.5016% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-4577.16 | Return: 15.49% | Impact: -3.7907% | Held: 193 days, 0:00:00
+2023-11-02 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-08-01 | Sell: 2023-11-02 | PnL: $1078.87 | Return: -3.09% | Impact: 0.8734% | Held: 93 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-131.28 | Return: 0.33% | Impact: -0.1003% | Held: 64 days, 0:00:00
+2024-03-04 | 💰 TRADE CLOSED (GOOGL) | Buy: 2023-11-30 | Sell: 2024-03-04 | PnL: $-119.15 | Return: 0.62% | Impact: -0.0900% | Held: 95 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-8678.47 | Return: 20.92% | Impact: -6.5679% | Held: 188 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $778.59 | Return: -3.63% | Impact: 0.5801% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-922.57 | Return: 2.29% | Impact: -0.6873% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-10408.25 | Return: 23.03% | Impact: -7.4153% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $602.74 | Return: -1.71% | Impact: 0.4238% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-2505.58 | Return: 3.59% | Impact: -1.7585% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 0.60
+📉 Portfolio Sortino Ratio: 0.68
+🔥 Portfolio Calmar Ratio: 1.29
+✅ Final Portfolio Value: $145410.53 | Time: 0.95s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $419.24 | Return: -3.63% | Impact: 0.4066% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-1159.40 | Return: 2.29% | Impact: -1.1245% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-5754.16 | Return: 23.03% | Impact: -5.4033% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $455.73 | Return: -1.71% | Impact: 0.4223% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-1896.97 | Return: 3.59% | Impact: -1.7548% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 0.86
+📉 Portfolio Sortino Ratio: 0.93
+🔥 Portfolio Calmar Ratio: 0.69
+✅ Final Portfolio Value: $110337.03 | Time: 0.56s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $419.24 | Return: 3.63% | Impact: 0.4066% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-1159.40 | Return: -2.29% | Impact: -1.1245% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-5754.16 | Return: -23.03% | Impact: -5.4033% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $455.73 | Return: 1.71% | Impact: 0.4223% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-1896.97 | Return: -3.59% | Impact: -1.7548% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 0.86
+📉 Portfolio Sortino Ratio: 0.93
+🔥 Portfolio Calmar Ratio: 0.69
+✅ Final Portfolio Value: $110337.03 | Time: 0.56s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $419.24 | Return: -3.63% | Impact: 0.4066% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-1159.40 | Return: 2.29% | Impact: -1.1245% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-5754.16 | Return: 23.03% | Impact: -5.4033% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $455.73 | Return: -1.71% | Impact: 0.4223% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-1896.97 | Return: 3.59% | Impact: -1.7548% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 0.86
+📉 Portfolio Sortino Ratio: 0.93
+🔥 Portfolio Calmar Ratio: 0.69
+✅ Final Portfolio Value: $110337.03 | Time: 0.62s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $419.24 | Return: -3.63% | Impact: 0.4066% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-1159.40 | Return: 2.29% | Impact: -1.1245% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-5754.16 | Return: 23.03% | Impact: -5.4033% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $455.73 | Return: -1.71% | Impact: 0.4223% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-1896.97 | Return: 3.59% | Impact: -1.7548% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 0.86
+📉 Portfolio Sortino Ratio: 0.93
+🔥 Portfolio Calmar Ratio: 0.69
+✅ Final Portfolio Value: $110337.03 | Time: 0.63s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $419.24 | Impact: 0.4066% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-1159.40 | Impact: -1.1245% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-5754.16 | Impact: -5.4033% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $455.73 | Impact: 0.4223% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-1896.97 | Impact: -1.7548% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 0.86
+📉 Portfolio Sortino Ratio: 0.93
+🔥 Portfolio Calmar Ratio: 0.69
+✅ Final Portfolio Value: $110337.03 | Time: 0.66s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $419.24 | Impact: 0.4066% | Held: 68 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (GOOGL) | Buy: 2024-04-03 | Sell: 2024-08-06 | PnL: $-1159.40 | Impact: -1.1245% | Held: 125 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-5754.16 | Impact: -5.4033% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $455.73 | Impact: 0.4223% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-1896.97 | Impact: -1.7548% | Held: 78 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 0.86
+📉 Portfolio Sortino Ratio: 0.93
+🔥 Portfolio Calmar Ratio: 0.69
+🎯 Win Rate: 40.00% | Loss Rate: 60.00%
+📊 Avg Win: $437.49 | Avg Loss: -$2936.84
+⚖️ Reward:Risk: 0.15 | Expectancy: $-1587.11 | Kelly %: -362.78%
+✅ Final Portfolio Value: $110337.03 | Time: 0.67s
+
+1 Failed download:
+['WGRX']: YFPricesMissingError('possibly delisted; no price data found  (1d 2024-01-01 -> 2025-01-01) (Yahoo error = "Data doesn\'t exist for startDate = 1704085200, endDate = 1735707600")')
+No data for WGRX, skipping.
+404 Client Error: Not Found for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RGCC?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RGCC&crumb=dZPRozVmkG1
+
+1 Failed download:
+['RGCC']: AttributeError("'NoneType' object has no attribute 'update'")
+No data for RGCC, skipping.
+
+1 Failed download:
+['DGNX']: YFPricesMissingError('possibly delisted; no price data found  (1d 2024-01-01 -> 2025-01-01) (Yahoo error = "Data doesn\'t exist for startDate = 1704085200, endDate = 1735707600")')
+No data for DGNX, skipping.
+
+📈 Running portfolio backtest with $100000 starting capital.
+✅ Final Portfolio Value: $100000.00 | Time: 3.84s
+
+1 Failed download:
+['WGRX']: YFPricesMissingError('possibly delisted; no price data found  (1d 2024-01-01 -> 2025-01-01) (Yahoo error = "Data doesn\'t exist for startDate = 1704085200, endDate = 1735707600")')
+No data for WGRX, skipping.
+404 Client Error: Not Found for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RGCC?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RGCC&crumb=dZPRozVmkG1
+
+1 Failed download:
+['RGCC']: AttributeError("'NoneType' object has no attribute 'update'")
+No data for RGCC, skipping.
+
+📈 Running portfolio backtest with $100000 starting capital.
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 2.42
+📉 Portfolio Sortino Ratio: 3.07
+🔥 Portfolio Calmar Ratio: 5.22
+✅ Final Portfolio Value: $148786.08 | Time: 2.78s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2024-07-08 | 💰 TRADE CLOSED (GRAB) | Buy: 2024-04-19 | Sell: 2024-07-08 | PnL: $-2786.22 | Impact: -2.7107% | Held: 80 days, 0:00:00
+2024-08-22 | 💰 TRADE CLOSED (TOI) | Buy: 2024-07-29 | Sell: 2024-08-22 | PnL: $8450.95 | Impact: 8.0007% | Held: 24 days, 0:00:00
+2024-11-14 | 💰 TRADE CLOSED (TOI) | Buy: 2024-10-24 | Sell: 2024-11-14 | PnL: $2820.69 | Impact: 1.9127% | Held: 21 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 2.02
+📉 Portfolio Sortino Ratio: 2.67
+🔥 Portfolio Calmar Ratio: 4.35
+🎯 Win Rate: 66.67% | Loss Rate: 33.33%
+📊 Avg Win: $5635.82 | Avg Loss: -$2786.22
+⚖️ Reward:Risk: 2.02 | Expectancy: $2828.47 | Kelly %: 50.19%
+✅ Final Portfolio Value: $147208.42 | Time: 0.60s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2022-06-06 | 💰 TRADE CLOSED (TOI) | Buy: 2022-03-31 | Sell: 2022-06-06 | PnL: $-1804.32 | Impact: -1.7723% | Held: 67 days, 0:00:00
+2022-06-23 | 💰 TRADE CLOSED (TOI) | Buy: 2022-06-16 | Sell: 2022-06-23 | PnL: $4170.88 | Impact: 4.2720% | Held: 7 days, 0:00:00
+2022-07-26 | 💰 TRADE CLOSED (GRAB) | Buy: 2022-07-25 | Sell: 2022-07-26 | PnL: $-1291.08 | Impact: -1.3322% | Held: 1 day, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (TOI) | Buy: 2022-08-12 | Sell: 2022-09-15 | PnL: $3458.00 | Impact: 3.3597% | Held: 34 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (GRAB) | Buy: 2022-07-28 | Sell: 2022-09-20 | PnL: $180.50 | Impact: 0.1787% | Held: 54 days, 0:00:00
+2022-09-30 | 💰 TRADE CLOSED (AXON) | Buy: 2022-07-22 | Sell: 2022-09-30 | PnL: $-6433.36 | Impact: -6.3246% | Held: 70 days, 0:00:00
+2023-01-10 | 💰 TRADE CLOSED (AXON) | Buy: 2022-10-26 | Sell: 2023-01-10 | PnL: $-15989.40 | Impact: -13.0649% | Held: 76 days, 0:00:00
+2023-03-02 | 💰 TRADE CLOSED (GRAB) | Buy: 2022-11-21 | Sell: 2023-03-02 | PnL: $-1822.52 | Impact: -1.5609% | Held: 101 days, 0:00:00
+2023-03-07 | 💰 TRADE CLOSED (TOI) | Buy: 2023-01-25 | Sell: 2023-03-07 | PnL: $-663.20 | Impact: -0.5363% | Held: 41 days, 0:00:00
+2023-05-15 | 💰 TRADE CLOSED (AXON) | Buy: 2023-01-27 | Sell: 2023-05-15 | PnL: $-1458.78 | Impact: -1.2129% | Held: 108 days, 0:00:00
+2023-09-11 | 💰 TRADE CLOSED (GRAB) | Buy: 2023-05-11 | Sell: 2023-09-11 | PnL: $-8154.58 | Impact: -4.7465% | Held: 123 days, 0:00:00
+2023-10-02 | 💰 TRADE CLOSED (GRAB) | Buy: 2023-09-12 | Sell: 2023-10-02 | PnL: $3114.57 | Impact: 1.8476% | Held: 20 days, 0:00:00
+2023-10-11 | 💰 TRADE CLOSED (AXON) | Buy: 2023-08-25 | Sell: 2023-10-11 | PnL: $-1855.02 | Impact: -1.0231% | Held: 47 days, 0:00:00
+2023-12-14 | 💰 TRADE CLOSED (TOI) | Buy: 2023-06-28 | Sell: 2023-12-14 | PnL: $-39682.55 | Impact: -22.5701% | Held: 169 days, 0:00:00
+2024-02-02 | 💰 TRADE CLOSED (GRAB) | Buy: 2024-01-03 | Sell: 2024-02-02 | PnL: $1215.63 | Impact: 0.6915% | Held: 30 days, 0:00:00
+2024-03-01 | 💰 TRADE CLOSED (TOI) | Buy: 2024-01-16 | Sell: 2024-03-01 | PnL: $4869.48 | Impact: 2.7760% | Held: 45 days, 0:00:00
+2024-03-18 | 💰 TRADE CLOSED (GRAB) | Buy: 2024-02-16 | Sell: 2024-03-18 | PnL: $4714.20 | Impact: 2.6517% | Held: 31 days, 0:00:00
+2024-05-07 | 💰 TRADE CLOSED (AXON) | Buy: 2023-10-24 | Sell: 2024-05-07 | PnL: $-21569.80 | Impact: -11.9354% | Held: 196 days, 0:00:00
+2024-07-08 | 💰 TRADE CLOSED (GRAB) | Buy: 2024-04-19 | Sell: 2024-07-08 | PnL: $-3096.72 | Impact: -1.7006% | Held: 80 days, 0:00:00
+2024-08-22 | 💰 TRADE CLOSED (TOI) | Buy: 2024-07-29 | Sell: 2024-08-22 | PnL: $15003.24 | Impact: 8.0204% | Held: 24 days, 0:00:00
+2024-11-14 | 💰 TRADE CLOSED (TOI) | Buy: 2024-10-24 | Sell: 2024-11-14 | PnL: $5007.12 | Impact: 1.9178% | Held: 21 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 1.17
+📉 Portfolio Sortino Ratio: 1.50
+🔥 Portfolio Calmar Ratio: 5.05
+🎯 Win Rate: 42.86% | Loss Rate: 57.14%
+📊 Avg Win: $4637.07 | Avg Loss: -$8651.78
+⚖️ Reward:Risk: 0.54 | Expectancy: $-2956.56 | Kelly %: -63.76%
+✅ Final Portfolio Value: $260613.59 | Time: 0.75s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2022-06-06 | 💰 TRADE CLOSED (TOI) | Buy: 2022-03-31 | Sell: 2022-06-06 | PnL: $-721.68 | Impact: -0.7165% | Held: 67 days, 0:00:00
+2022-06-23 | 💰 TRADE CLOSED (TOI) | Buy: 2022-06-16 | Sell: 2022-06-23 | PnL: $1650.32 | Impact: 1.6658% | Held: 7 days, 0:00:00
+2022-07-26 | 💰 TRADE CLOSED (GRAB) | Buy: 2022-07-25 | Sell: 2022-07-26 | PnL: $-831.18 | Impact: -0.8388% | Held: 1 day, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (TOI) | Buy: 2022-08-12 | Sell: 2022-09-15 | PnL: $3667.00 | Impact: 3.6969% | Held: 34 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (GRAB) | Buy: 2022-07-28 | Sell: 2022-09-20 | PnL: $114.44 | Impact: 0.1163% | Held: 54 days, 0:00:00
+2022-09-30 | 💰 TRADE CLOSED (AXON) | Buy: 2022-07-22 | Sell: 2022-09-30 | PnL: $-2603.33 | Impact: -2.6370% | Held: 70 days, 0:00:00
+2023-01-10 | 💰 TRADE CLOSED (AXON) | Buy: 2022-10-26 | Sell: 2023-01-10 | PnL: $-6175.80 | Impact: -5.7264% | Held: 76 days, 0:00:00
+2023-03-02 | 💰 TRADE CLOSED (GRAB) | Buy: 2022-11-21 | Sell: 2023-03-02 | PnL: $-1149.31 | Impact: -1.0885% | Held: 101 days, 0:00:00
+2023-03-07 | 💰 TRADE CLOSED (TOI) | Buy: 2023-01-25 | Sell: 2023-03-07 | PnL: $-253.68 | Impact: -0.2339% | Held: 41 days, 0:00:00
+2023-05-15 | 💰 TRADE CLOSED (AXON) | Buy: 2023-01-27 | Sell: 2023-05-15 | PnL: $-901.36 | Impact: -0.8449% | Held: 108 days, 0:00:00
+2023-09-11 | 💰 TRADE CLOSED (GRAB) | Buy: 2023-05-11 | Sell: 2023-09-11 | PnL: $-3096.79 | Impact: -2.3600% | Held: 123 days, 0:00:00
+2023-10-02 | 💰 TRADE CLOSED (GRAB) | Buy: 2023-09-12 | Sell: 2023-10-02 | PnL: $1295.18 | Impact: 1.0008% | Held: 20 days, 0:00:00
+2023-10-11 | 💰 TRADE CLOSED (AXON) | Buy: 2023-08-25 | Sell: 2023-10-11 | PnL: $-1531.47 | Impact: -1.1230% | Held: 47 days, 0:00:00
+2023-12-14 | 💰 TRADE CLOSED (TOI) | Buy: 2023-06-28 | Sell: 2023-12-14 | PnL: $-19427.86 | Impact: -14.6027% | Held: 169 days, 0:00:00
+2024-02-02 | 💰 TRADE CLOSED (GRAB) | Buy: 2024-01-03 | Sell: 2024-02-02 | PnL: $443.37 | Impact: 0.3329% | Held: 30 days, 0:00:00
+2024-03-01 | 💰 TRADE CLOSED (TOI) | Buy: 2024-01-16 | Sell: 2024-03-01 | PnL: $2858.13 | Impact: 2.1650% | Held: 45 days, 0:00:00
+2024-03-18 | 💰 TRADE CLOSED (GRAB) | Buy: 2024-02-16 | Sell: 2024-03-18 | PnL: $1936.80 | Impact: 1.4565% | Held: 31 days, 0:00:00
+2024-05-07 | 💰 TRADE CLOSED (AXON) | Buy: 2023-10-24 | Sell: 2024-05-07 | PnL: $-8747.20 | Impact: -6.5214% | Held: 196 days, 0:00:00
+2024-07-08 | 💰 TRADE CLOSED (GRAB) | Buy: 2024-04-19 | Sell: 2024-07-08 | PnL: $-1180.80 | Impact: -0.8769% | Held: 80 days, 0:00:00
+2024-08-22 | 💰 TRADE CLOSED (TOI) | Buy: 2024-07-29 | Sell: 2024-08-22 | PnL: $7458.93 | Impact: 5.6054% | Held: 24 days, 0:00:00
+2024-11-14 | 💰 TRADE CLOSED (TOI) | Buy: 2024-10-24 | Sell: 2024-11-14 | PnL: $4568.72 | Impact: 2.9579% | Held: 21 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 0.91
+📉 Portfolio Sortino Ratio: 1.14
+🔥 Portfolio Calmar Ratio: 2.38
+🎯 Win Rate: 42.86% | Loss Rate: 57.14%
+📊 Avg Win: $2665.88 | Avg Loss: -$3885.04
+⚖️ Reward:Risk: 0.69 | Expectancy: $-1077.50 | Kelly %: -40.42%
+✅ Final Portfolio Value: $154186.27 | Time: 0.72s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $1325.70 | Impact: 1.3748% | Held: 23 days, 0:00:00
+2022-05-04 | 💰 TRADE CLOSED (META) | Buy: 2022-04-13 | Sell: 2022-05-04 | PnL: $-502.83 | Impact: -0.5119% | Held: 21 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1421.74 | Impact: 1.4544% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-580.96 | Impact: -0.5915% | Held: 2 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (META) | Buy: 2022-08-16 | Sell: 2022-09-13 | PnL: $1835.15 | Impact: 1.9233% | Held: 28 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $1756.85 | Impact: 1.8587% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-226.49 | Impact: -0.2385% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $10.04 | Impact: 0.0106% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $1459.03 | Impact: 1.5785% | Held: 15 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $1255.07 | Impact: 1.3345% | Held: 42 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-2725.16 | Impact: -2.3349% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-2532.54 | Impact: -2.2272% | Held: 193 days, 0:00:00
+2023-08-31 | 💰 TRADE CLOSED (META) | Buy: 2022-12-19 | Sell: 2023-08-31 | PnL: $-18236.46 | Impact: -15.7563% | Held: 255 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-49.31 | Impact: -0.0396% | Held: 64 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-3661.23 | Impact: -2.8243% | Held: 188 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (META) | Buy: 2023-10-02 | Sell: 2024-05-01 | PnL: $-10180.39 | Impact: -7.8533% | Held: 212 days, 0:00:00
+2024-08-01 | 💰 TRADE CLOSED (META) | Buy: 2024-06-13 | Sell: 2024-08-01 | PnL: $192.87 | Impact: 0.1437% | Held: 49 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $718.70 | Impact: 0.5478% | Held: 68 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-6008.02 | Impact: -4.4594% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $294.02 | Impact: 0.2147% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-774.59 | Impact: -0.5682% | Held: 78 days, 0:00:00
+2024-11-25 | 💰 TRADE CLOSED (META) | Buy: 2024-08-23 | Sell: 2024-11-25 | PnL: $-1877.47 | Impact: -1.3696% | Held: 94 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 1.22
+📉 Portfolio Sortino Ratio: 1.43
+🔥 Portfolio Calmar Ratio: 3.80
+🎯 Win Rate: 45.45% | Loss Rate: 54.55%
+📊 Avg Win: $1026.92 | Avg Loss: -$3946.29
+⚖️ Reward:Risk: 0.26 | Expectancy: $-1685.74 | Kelly %: -164.16%
+✅ Final Portfolio Value: $135410.24 | Time: 1.12s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $3334.98 | Impact: 3.5543% | Held: 23 days, 0:00:00
+2022-05-04 | 💰 TRADE CLOSED (META) | Buy: 2022-04-13 | Sell: 2022-05-04 | PnL: $-502.83 | Impact: -0.5257% | Held: 21 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $2268.74 | Impact: 2.3907% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-871.43 | Impact: -0.9127% | Held: 2 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (META) | Buy: 2022-08-16 | Sell: 2022-09-13 | PnL: $1782.72 | Impact: 1.9300% | Held: 28 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $2666.65 | Impact: 2.9375% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-548.82 | Impact: -0.5974% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $24.28 | Impact: 0.0264% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $2138.96 | Impact: 2.4489% | Held: 15 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $3034.40 | Impact: 3.4353% | Held: 42 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-4004.31 | Impact: -3.4839% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-5971.22 | Impact: -5.3521% | Held: 193 days, 0:00:00
+2023-08-31 | 💰 TRADE CLOSED (META) | Buy: 2022-12-19 | Sell: 2023-08-31 | PnL: $-16791.99 | Impact: -14.8025% | Held: 255 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-48.07 | Impact: -0.0366% | Held: 64 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-5559.64 | Impact: -3.8599% | Held: 188 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (META) | Buy: 2023-10-02 | Sell: 2024-05-01 | PnL: $-24988.24 | Impact: -17.3486% | Held: 212 days, 0:00:00
+2024-08-01 | 💰 TRADE CLOSED (META) | Buy: 2024-06-13 | Sell: 2024-08-01 | PnL: $210.40 | Impact: 0.1339% | Held: 49 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $1242.75 | Impact: 0.8315% | Held: 68 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-16754.75 | Impact: -10.5153% | Held: 103 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $345.47 | Impact: 0.2085% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-1430.63 | Impact: -0.8735% | Held: 78 days, 0:00:00
+2024-11-25 | 💰 TRADE CLOSED (META) | Buy: 2024-08-23 | Sell: 2024-11-25 | PnL: $-5632.42 | Impact: -3.3919% | Held: 94 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 1.15
+📉 Portfolio Sortino Ratio: 1.26
+🔥 Portfolio Calmar Ratio: 3.68
+🎯 Win Rate: 45.45% | Loss Rate: 54.55%
+📊 Avg Win: $1704.94 | Avg Loss: -$6925.36
+⚖️ Reward:Risk: 0.25 | Expectancy: $-3002.50 | Kelly %: -176.11%
+✅ Final Portfolio Value: $164751.25 | Time: 0.88s
+
+📈 Running portfolio backtest with $100000 starting capital.
+2022-04-26 | 💰 TRADE CLOSED (NVDA) | Buy: 2022-03-29 | Sell: 2022-04-26 | PnL: $18098.83 | Impact: 23.3563% | Held: 28 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $1574.27 | Impact: 1.9934% | Held: 23 days, 0:00:00
+2022-05-04 | 💰 TRADE CLOSED (META) | Buy: 2022-04-13 | Sell: 2022-05-04 | PnL: $-243.03 | Impact: -0.3044% | Held: 21 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $1073.87 | Impact: 1.3508% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-726.19 | Impact: -0.9080% | Held: 2 days, 0:00:00
+2022-09-09 | 💰 TRADE CLOSED (NVDA) | Buy: 2022-08-05 | Sell: 2022-09-09 | PnL: $2506.91 | Impact: 3.2596% | Held: 35 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (META) | Buy: 2022-08-16 | Sell: 2022-09-13 | PnL: $734.06 | Impact: 0.9706% | Held: 28 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $2227.44 | Impact: 2.9979% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-459.97 | Impact: -0.6115% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $8.70 | Impact: 0.0119% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $779.09 | Impact: 1.0761% | Held: 15 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $1080.31 | Impact: 1.5038% | Held: 42 days, 0:00:00
+2023-01-13 | 💰 TRADE CLOSED (NVDA) | Buy: 2022-11-11 | Sell: 2023-01-13 | PnL: $-1487.63 | Impact: -1.9692% | Held: 63 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-1890.93 | Impact: -1.4412% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-2811.35 | Impact: -2.2291% | Held: 193 days, 0:00:00
+2023-08-31 | 💰 TRADE CLOSED (META) | Buy: 2022-12-19 | Sell: 2023-08-31 | PnL: $-6139.01 | Impact: -4.3806% | Held: 255 days, 0:00:00
+2023-09-29 | 💰 TRADE CLOSED (NVDA) | Buy: 2023-01-30 | Sell: 2023-09-29 | PnL: $-44455.55 | Impact: -34.1624% | Held: 242 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-54.85 | Impact: -0.0361% | Held: 64 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-6373.25 | Impact: -3.7252% | Held: 188 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (META) | Buy: 2023-10-02 | Sell: 2024-05-01 | PnL: $-28690.18 | Impact: -16.7695% | Held: 212 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (NVDA) | Buy: 2023-11-17 | Sell: 2024-05-01 | PnL: $-5836.77 | Impact: -3.4116% | Held: 166 days, 0:00:00
+2024-08-01 | 💰 TRADE CLOSED (META) | Buy: 2024-06-13 | Sell: 2024-08-01 | PnL: $122.74 | Impact: 0.0640% | Held: 49 days, 0:00:00
+2024-08-05 | 💰 TRADE CLOSED (NVDA) | Buy: 2024-05-21 | Sell: 2024-08-05 | PnL: $-2291.90 | Impact: -1.2893% | Held: 76 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $718.70 | Impact: 0.3977% | Held: 68 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-19928.00 | Impact: -10.3542% | Held: 103 days, 0:00:00
+2024-09-24 | 💰 TRADE CLOSED (NVDA) | Buy: 2024-09-09 | Sell: 2024-09-24 | PnL: $-3457.63 | Impact: -1.7108% | Held: 15 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $448.38 | Impact: 0.2179% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-1723.08 | Impact: -0.8459% | Held: 78 days, 0:00:00
+2024-11-25 | 💰 TRADE CLOSED (META) | Buy: 2024-08-23 | Sell: 2024-11-25 | PnL: $-6834.01 | Impact: -3.3188% | Held: 94 days, 0:00:00
+2024-12-17 | 💰 TRADE CLOSED (NVDA) | Buy: 2024-10-02 | Sell: 2024-12-17 | PnL: $-1281.73 | Impact: -0.6154% | Held: 76 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 1.18
+📉 Portfolio Sortino Ratio: 1.56
+🔥 Portfolio Calmar Ratio: 3.13
+🎯 Win Rate: 40.00% | Loss Rate: 60.00%
+📊 Avg Win: $2447.78 | Avg Loss: -$7482.50
+⚖️ Reward:Risk: 0.33 | Expectancy: $-3510.39 | Kelly %: -143.41%
+✅ Final Portfolio Value: $203808.62 | Time: 0.83s
+
+📈 Running portfolio backtest with $100000 starting capital.
+⚠️ Order failed for META
+2020-09-29 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-04-23 | Sell: 2020-09-29 | PnL: $-5442.17 | Impact: -3.4606% | Held: 159 days, 0:00:00
+2020-10-02 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-04-30 | Sell: 2020-10-02 | PnL: $-7547.88 | Impact: -4.7944% | Held: 155 days, 0:00:00
+2020-10-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-10-26 | Sell: 2020-10-30 | PnL: $899.34 | Impact: 0.5992% | Held: 4 days, 0:00:00
+2020-11-23 | 💰 TRADE CLOSED (NVDA) | Buy: 2020-04-21 | Sell: 2020-11-23 | PnL: $-44797.17 | Impact: -28.5438% | Held: 216 days, 0:00:00
+2020-12-04 | 💰 TRADE CLOSED (NVDA) | Buy: 2020-12-02 | Sell: 2020-12-04 | PnL: $-69.61 | Impact: -0.0438% | Held: 2 days, 0:00:00
+2020-12-17 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-10-21 | Sell: 2020-12-17 | PnL: $-769.69 | Impact: -0.4828% | Held: 57 days, 0:00:00
+2021-01-04 | 💰 TRADE CLOSED (META) | Buy: 2020-10-30 | Sell: 2021-01-04 | PnL: $-179.88 | Impact: -0.1122% | Held: 66 days, 0:00:00
+2021-02-24 | 💰 TRADE CLOSED (META) | Buy: 2021-02-18 | Sell: 2021-02-24 | PnL: $358.99 | Impact: 0.2168% | Held: 6 days, 0:00:00
+2021-03-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2020-11-05 | Sell: 2021-03-01 | PnL: $-992.71 | Impact: -0.5959% | Held: 116 days, 0:00:00
+2021-03-16 | 💰 TRADE CLOSED (NVDA) | Buy: 2021-02-01 | Sell: 2021-03-16 | PnL: $-179.56 | Impact: -0.1078% | Held: 43 days, 0:00:00
+2021-03-26 | 💰 TRADE CLOSED (MSFT) | Buy: 2020-12-18 | Sell: 2021-03-26 | PnL: $-5566.28 | Impact: -3.4268% | Held: 98 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-04-08 | Sell: 2021-05-27 | PnL: $774.20 | Impact: 0.4610% | Held: 49 days, 0:00:00
+2021-05-27 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-04-20 | Sell: 2021-05-27 | PnL: $812.21 | Impact: 0.4836% | Held: 37 days, 0:00:00
+2021-10-01 | 💰 TRADE CLOSED (META) | Buy: 2021-03-23 | Sell: 2021-10-01 | PnL: $-8393.62 | Impact: -4.5454% | Held: 192 days, 0:00:00
+2021-10-04 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-06-29 | Sell: 2021-10-04 | PnL: $-482.12 | Impact: -0.2637% | Held: 97 days, 0:00:00
+2021-10-07 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-06-21 | Sell: 2021-10-07 | PnL: $-5274.27 | Impact: -2.8275% | Held: 108 days, 0:00:00
+2021-10-13 | 💰 TRADE CLOSED (NVDA) | Buy: 2021-04-16 | Sell: 2021-10-13 | PnL: $-9549.71 | Impact: -5.1232% | Held: 180 days, 0:00:00
+2021-12-15 | 💰 TRADE CLOSED (META) | Buy: 2021-11-29 | Sell: 2021-12-15 | PnL: $-122.84 | Impact: -0.0622% | Held: 16 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2021-10-28 | Sell: 2022-01-06 | PnL: $2824.97 | Impact: 1.4728% | Held: 70 days, 0:00:00
+2022-01-06 | 💰 TRADE CLOSED (NVDA) | Buy: 2021-10-29 | Sell: 2022-01-06 | PnL: $-4989.45 | Impact: -2.6012% | Held: 69 days, 0:00:00
+2022-01-25 | 💰 TRADE CLOSED (META) | Buy: 2022-01-04 | Sell: 2022-01-25 | PnL: $1231.12 | Impact: 0.6520% | Held: 21 days, 0:00:00
+2022-02-01 | 💰 TRADE CLOSED (AAPL) | Buy: 2021-11-08 | Sell: 2022-02-01 | PnL: $-3539.40 | Impact: -1.8531% | Held: 85 days, 0:00:00
+2022-04-26 | 💰 TRADE CLOSED (NVDA) | Buy: 2022-03-29 | Sell: 2022-04-26 | PnL: $34572.03 | Impact: 23.3573% | Held: 28 days, 0:00:00
+2022-04-28 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-04-05 | Sell: 2022-04-28 | PnL: $3024.26 | Impact: 2.0050% | Held: 23 days, 0:00:00
+2022-05-04 | 💰 TRADE CLOSED (META) | Buy: 2022-04-13 | Sell: 2022-05-04 | PnL: $-452.55 | Impact: -0.2968% | Held: 21 days, 0:00:00
+2022-05-05 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-04-07 | Sell: 2022-05-05 | PnL: $2056.99 | Impact: 1.3551% | Held: 28 days, 0:00:00
+2022-07-27 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-07-25 | Sell: 2022-07-27 | PnL: $-1394.29 | Impact: -0.9130% | Held: 2 days, 0:00:00
+2022-09-09 | 💰 TRADE CLOSED (NVDA) | Buy: 2022-08-05 | Sell: 2022-09-09 | PnL: $4747.53 | Impact: 3.2320% | Held: 35 days, 0:00:00
+2022-09-13 | 💰 TRADE CLOSED (META) | Buy: 2022-08-16 | Sell: 2022-09-13 | PnL: $1389.47 | Impact: 0.9619% | Held: 28 days, 0:00:00
+2022-09-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-08-01 | Sell: 2022-09-15 | PnL: $4298.01 | Impact: 3.0291% | Held: 45 days, 0:00:00
+2022-09-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-07-21 | Sell: 2022-09-20 | PnL: $-878.12 | Impact: -0.6114% | Held: 61 days, 0:00:00
+2022-11-30 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-11-25 | Sell: 2022-11-30 | PnL: $16.69 | Impact: 0.0119% | Held: 5 days, 0:00:00
+2022-12-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2022-12-05 | Sell: 2022-12-20 | PnL: $1473.19 | Impact: 1.0655% | Held: 15 days, 0:00:00
+2023-01-12 | 💰 TRADE CLOSED (MSFT) | Buy: 2022-12-01 | Sell: 2023-01-12 | PnL: $2081.18 | Impact: 1.5173% | Held: 42 days, 0:00:00
+2023-01-13 | 💰 TRADE CLOSED (NVDA) | Buy: 2022-11-11 | Sell: 2023-01-13 | PnL: $-2841.09 | Impact: -1.9697% | Held: 63 days, 0:00:00
+2023-08-15 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-02-08 | Sell: 2023-08-15 | PnL: $-3615.00 | Impact: -1.4431% | Held: 188 days, 0:00:00
+2023-08-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-02-06 | Sell: 2023-08-18 | PnL: $-5390.36 | Impact: -2.2384% | Held: 193 days, 0:00:00
+2023-08-31 | 💰 TRADE CLOSED (META) | Buy: 2022-12-19 | Sell: 2023-08-31 | PnL: $-11555.78 | Impact: -4.3184% | Held: 255 days, 0:00:00
+2023-09-29 | 💰 TRADE CLOSED (NVDA) | Buy: 2023-01-30 | Sell: 2023-09-29 | PnL: $-84993.55 | Impact: -34.2086% | Held: 242 days, 0:00:00
+2024-01-18 | 💰 TRADE CLOSED (AAPL) | Buy: 2023-11-15 | Sell: 2024-01-18 | PnL: $-104.77 | Impact: -0.0361% | Held: 64 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (MSFT) | Buy: 2023-10-26 | Sell: 2024-05-01 | PnL: $-12204.09 | Impact: -3.7363% | Held: 188 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (META) | Buy: 2023-10-02 | Sell: 2024-05-01 | PnL: $-54736.12 | Impact: -16.7575% | Held: 212 days, 0:00:00
+2024-05-01 | 💰 TRADE CLOSED (NVDA) | Buy: 2023-11-17 | Sell: 2024-05-01 | PnL: $-11133.72 | Impact: -3.4086% | Held: 166 days, 0:00:00
+2024-08-01 | 💰 TRADE CLOSED (META) | Buy: 2024-06-13 | Sell: 2024-08-01 | PnL: $233.78 | Impact: 0.0638% | Held: 49 days, 0:00:00
+2024-08-05 | 💰 TRADE CLOSED (NVDA) | Buy: 2024-05-21 | Sell: 2024-08-05 | PnL: $-4375.91 | Impact: -1.2893% | Held: 76 days, 0:00:00
+2024-08-06 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-05-30 | Sell: 2024-08-06 | PnL: $1377.50 | Impact: 0.3992% | Held: 68 days, 0:00:00
+2024-08-20 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-05-09 | Sell: 2024-08-20 | PnL: $-38078.97 | Impact: -10.3622% | Held: 103 days, 0:00:00
+2024-09-24 | 💰 TRADE CLOSED (NVDA) | Buy: 2024-09-09 | Sell: 2024-09-24 | PnL: $-6612.71 | Impact: -1.7136% | Held: 15 days, 0:00:00
+2024-10-24 | 💰 TRADE CLOSED (MSFT) | Buy: 2024-09-25 | Sell: 2024-10-24 | PnL: $852.66 | Impact: 0.2170% | Held: 29 days, 0:00:00
+2024-11-21 | 💰 TRADE CLOSED (AAPL) | Buy: 2024-09-04 | Sell: 2024-11-21 | PnL: $-3295.98 | Impact: -0.8473% | Held: 78 days, 0:00:00
+2024-11-25 | 💰 TRADE CLOSED (META) | Buy: 2024-08-23 | Sell: 2024-11-25 | PnL: $-13029.68 | Impact: -3.3139% | Held: 94 days, 0:00:00
+2024-12-17 | 💰 TRADE CLOSED (NVDA) | Buy: 2024-10-02 | Sell: 2024-12-17 | PnL: $-2459.54 | Impact: -0.6184% | Held: 76 days, 0:00:00
+📊 Equity curve saved for portfolio
+📈 Portfolio Sharpe Ratio: 1.36
+📉 Portfolio Sortino Ratio: 1.73
+🔥 Portfolio Calmar Ratio: 7.49
+🎯 Win Rate: 34.62% | Loss Rate: 65.38%
+📊 Avg Win: $3501.34 | Avg Loss: -$10442.61
+⚖️ Reward:Risk: 0.34 | Expectancy: $-5615.86 | Kelly %: -160.39%
+✅ Final Portfolio Value: $389166.71 | Time: 1.34s

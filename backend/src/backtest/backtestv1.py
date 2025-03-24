@@ -79,6 +79,7 @@ class MovingAverageCrossoverStrategy(bt.Strategy):
                 size = abs(round(order.executed.size))
                 buy_price = round(self.buy_price, 2)
                 pnl = round((sell_price - buy_price) * size, 2)
+                trade_return_pct = round(((sell_price - buy_price) / buy_price) * 100, 2) if buy_price else 0.0
                 cash_balance = round(self.broker.get_cash(), 2)
                 sell_datetime = self.data.datetime.datetime(0)
                 time_held = str(sell_datetime - self.buy_datetime)
@@ -89,24 +90,12 @@ class MovingAverageCrossoverStrategy(bt.Strategy):
                 print(f"  Sold at:       ${sell_price:.2f}")
                 print(f"  Size:          {size} shares")
                 print(f"  PnL:           ${pnl:.2f}")
+                print(f"  Return:        {trade_return_pct:.2f}%")
                 print(f"  Time Held:     {time_held}")
                 print(f"  Cash Balance:  ${cash_balance:.2f}")
 
                 conn = sqlite3.connect(DB_PATH)
                 cursor = conn.cursor()
-                cursor.execute(f"""
-                    CREATE TABLE IF NOT EXISTS {TRADE_TABLE} (
-                        id INTEGER PRIMARY KEY AUTOINCREMENT,
-                        datetime TEXT,
-                        ticker TEXT,
-                        buy_price REAL,
-                        sell_price REAL,
-                        size INTEGER,
-                        pnl REAL,
-                        cash_after_trade REAL,
-                        time_held TEXT
-                    )
-                """)
                 cursor.execute(f"""
                     INSERT INTO {TRADE_TABLE} (datetime, ticker, buy_price, sell_price, size, pnl, cash_after_trade, time_held)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?)
@@ -124,14 +113,6 @@ class MovingAverageCrossoverStrategy(bt.Strategy):
 
         conn = sqlite3.connect(DB_PATH)
         cursor = conn.cursor()
-        cursor.execute(f"""
-            CREATE TABLE IF NOT EXISTS {EQUITY_TABLE} (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                date TEXT,
-                ticker TEXT,
-                equity REAL
-            )
-        """)
         cursor.executemany(f"""
             INSERT INTO {EQUITY_TABLE} (date, ticker, equity)
             VALUES (?, ?, ?)
